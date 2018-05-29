@@ -1,0 +1,7 @@
+# This is a README for the kubernetes based sample app
+## Requirements
+Install kubectl using
+
+``` brew install kubectl```
+
+
